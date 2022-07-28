@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: // Write your code here
+  learner_created: false
+- name: main.html
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/9108#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 20 Jul 2022 11:54:04 UTC
+record: -1

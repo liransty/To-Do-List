@@ -134,5 +134,11 @@ files:
   visible: true
   learner_created: true
 feedback_link: https://hyperskill.org/learn/step/13195#comment
-status: Unchecked
-record: -1
+status: Failed
+feedback:
+  message: |-
+    Error: Wrong answer in test #4
+
+    After adding a new task to the To-Do list, there should be 4 <li> tags inside the <ul> list
+  time: Tue, 19 Jul 2022 16:48:20 UTC
+record: 2
